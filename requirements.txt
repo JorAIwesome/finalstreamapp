@@ -2,6 +2,6 @@ streamlit
 openai
 pydantic
 typing
-ortools.sat.python
+ortools
 collections
 math
