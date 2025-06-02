@@ -2,10 +2,6 @@ streamlit
 openai
 pydantic
 typing
-ast
-datetime
-calendar
-numpy
 ortools.sat.python
 collections
 math
