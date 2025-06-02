@@ -2,7 +2,6 @@ streamlit
 openai
 pydantic
 typing
-re
 ast
 datetime
 calendar
