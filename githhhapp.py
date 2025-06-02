@@ -5,7 +5,6 @@ import os
 from openai import OpenAI
 from pydantic import BaseModel, field_validator, RootModel, conlist
 from typing import List, Union, Dict
-import time
 import json
 # Fix any malformed outputs output
 import re
