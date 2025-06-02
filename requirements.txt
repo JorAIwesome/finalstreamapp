@@ -1,1 +1,14 @@
 streamlit
+openai
+pydantic
+typing
+time
+json
+re
+ast
+datetime
+calendar
+numpy
+ortools.sat.python
+collections
+math
