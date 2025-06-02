@@ -2,7 +2,6 @@ streamlit
 openai
 pydantic
 typing
-json
 re
 ast
 datetime
